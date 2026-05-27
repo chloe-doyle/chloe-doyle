@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, I'm Chloe.
 
-<!--
-**chloe-doyle/chloe-doyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs + cybersecurity student @ Lamar University.
+interested in defense, systems security, and building things that actually work.
 
-Here are some ideas to get you started:
+**currently working on:**
+- network security tool
+- cryptography projects
+- Security+ certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**reach me:** [LinkedIn](www.linkedin.com/in/cdyl)
